@@ -1,5 +1,5 @@
 # TestScaner
-Early prototype of test-scanning software designed to make solving/coping answers easier.
+Early prototype of test-scanning software designed to make solving/coping answers easier. It is designed to operate on Polish 8th grader test.
 
 Project uses OpenCV to find anwsers on the test.
 
